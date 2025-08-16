@@ -25,6 +25,6 @@ def scraperArticleWiki (lien):
 
 
 
-scraperArticleWiki("https://en.wikipedia.org/wiki/Web_scraping")
+scraperArticleWiki("https://fr.wikipedia.org/wiki/Game_of_Thrones")
 
 
